@@ -1,0 +1,409 @@
+,State_Name,Population,Code,Item,Year
+0,Alabama,4786,11,Population (Thousands),2010
+1,Alaska,714,11,Population (Thousands),2010
+2,Arizona,6407,11,Population (Thousands),2010
+3,Arkansas,2922,11,Population (Thousands),2010
+4,California,37320,11,Population (Thousands),2010
+5,Colorado,5048,11,Population (Thousands),2010
+6,Connecticut,3579,11,Population (Thousands),2010
+7,Delaware,900,11,Population (Thousands),2010
+8,District of Columbia,605,11,Population (Thousands),2010
+9,Florida,18846,11,Population (Thousands),2010
+10,Georgia,9712,11,Population (Thousands),2010
+11,Hawaii,1364,11,Population (Thousands),2010
+12,Idaho,1571,11,Population (Thousands),2010
+13,Illinois,12841,11,Population (Thousands),2010
+14,Indiana,6491,11,Population (Thousands),2010
+15,Iowa,3051,11,Population (Thousands),2010
+16,Kansas,2858,11,Population (Thousands),2010
+17,Kentucky,4348,11,Population (Thousands),2010
+18,Louisiana,4545,11,Population (Thousands),2010
+19,Maine,1328,11,Population (Thousands),2010
+20,Maryland,5789,11,Population (Thousands),2010
+21,Massachusetts,6566,11,Population (Thousands),2010
+22,Michigan,9878,11,Population (Thousands),2010
+23,Minnesota,5311,11,Population (Thousands),2010
+24,Mississippi,2971,11,Population (Thousands),2010
+25,Missouri,5996,11,Population (Thousands),2010
+26,Montana,991,11,Population (Thousands),2010
+27,Nebraska,1830,11,Population (Thousands),2010
+28,Nevada,2702,11,Population (Thousands),2010
+29,New Hampshire,1317,11,Population (Thousands),2010
+30,New Jersey,8799,11,Population (Thousands),2010
+31,New Mexico,2065,11,Population (Thousands),2010
+32,New York,19400,11,Population (Thousands),2010
+33,North Carolina,9575,11,Population (Thousands),2010
+34,North Dakota,675,11,Population (Thousands),2010
+35,Ohio,11539,11,Population (Thousands),2010
+36,Oklahoma,3760,11,Population (Thousands),2010
+37,Oregon,3838,11,Population (Thousands),2010
+38,Pennsylvania,12711,11,Population (Thousands),2010
+39,Rhode Island,1054,11,Population (Thousands),2010
+40,South Carolina,4636,11,Population (Thousands),2010
+41,South Dakota,816,11,Population (Thousands),2010
+42,Tennessee,6356,11,Population (Thousands),2010
+43,Texas,25242,11,Population (Thousands),2010
+44,Utah,2775,11,Population (Thousands),2010
+45,Vermont,626,11,Population (Thousands),2010
+46,Virginia,8024,11,Population (Thousands),2010
+47,Washington,6743,11,Population (Thousands),2010
+48,West Virginia,1854,11,Population (Thousands),2010
+49,Wisconsin,5691,11,Population (Thousands),2010
+50,Wyoming,565,11,Population (Thousands),2010
+0,Alabama,4800,11,Population (Thousands),2011
+1,Alaska,722,11,Population (Thousands),2011
+2,Arizona,6473,11,Population (Thousands),2011
+3,Arkansas,2941,11,Population (Thousands),2011
+4,California,37636,11,Population (Thousands),2011
+5,Colorado,5122,11,Population (Thousands),2011
+6,Connecticut,3589,11,Population (Thousands),2011
+7,Delaware,908,11,Population (Thousands),2011
+8,District of Columbia,620,11,Population (Thousands),2011
+9,Florida,19056,11,Population (Thousands),2011
+10,Georgia,9804,11,Population (Thousands),2011
+11,Hawaii,1380,11,Population (Thousands),2011
+12,Idaho,1584,11,Population (Thousands),2011
+13,Illinois,12868,11,Population (Thousands),2011
+14,Indiana,6517,11,Population (Thousands),2011
+15,Iowa,3067,11,Population (Thousands),2011
+16,Kansas,2870,11,Population (Thousands),2011
+17,Kentucky,4371,11,Population (Thousands),2011
+18,Louisiana,4576,11,Population (Thousands),2011
+19,Maine,1328,11,Population (Thousands),2011
+20,Maryland,5840,11,Population (Thousands),2011
+21,Massachusetts,6614,11,Population (Thousands),2011
+22,Michigan,9883,11,Population (Thousands),2011
+23,Minnesota,5347,11,Population (Thousands),2011
+24,Mississippi,2979,11,Population (Thousands),2011
+25,Missouri,6011,11,Population (Thousands),2011
+26,Montana,998,11,Population (Thousands),2011
+27,Nebraska,1841,11,Population (Thousands),2011
+28,Nevada,2713,11,Population (Thousands),2011
+29,New Hampshire,1320,11,Population (Thousands),2011
+30,New Jersey,8829,11,Population (Thousands),2011
+31,New Mexico,2081,11,Population (Thousands),2011
+32,New York,19500,11,Population (Thousands),2011
+33,North Carolina,9659,11,Population (Thousands),2011
+34,North Dakota,686,11,Population (Thousands),2011
+35,Ohio,11546,11,Population (Thousands),2011
+36,Oklahoma,3789,11,Population (Thousands),2011
+37,Oregon,3873,11,Population (Thousands),2011
+38,Pennsylvania,12747,11,Population (Thousands),2011
+39,Rhode Island,1054,11,Population (Thousands),2011
+40,South Carolina,4673,11,Population (Thousands),2011
+41,South Dakota,824,11,Population (Thousands),2011
+42,Tennessee,6400,11,Population (Thousands),2011
+43,Texas,25646,11,Population (Thousands),2011
+44,Utah,2815,11,Population (Thousands),2011
+45,Vermont,627,11,Population (Thousands),2011
+46,Virginia,8102,11,Population (Thousands),2011
+47,Washington,6827,11,Population (Thousands),2011
+48,West Virginia,1857,11,Population (Thousands),2011
+49,Wisconsin,5706,11,Population (Thousands),2011
+50,Wyoming,567,11,Population (Thousands),2011
+0,Alabama,4817,11,Population (Thousands),2012
+1,Alaska,731,11,Population (Thousands),2012
+2,Arizona,6556,11,Population (Thousands),2012
+3,Arkansas,2953,11,Population (Thousands),2012
+4,California,37945,11,Population (Thousands),2012
+5,Colorado,5194,11,Population (Thousands),2012
+6,Connecticut,3595,11,Population (Thousands),2012
+7,Delaware,916,11,Population (Thousands),2012
+8,District of Columbia,636,11,Population (Thousands),2012
+9,Florida,19302,11,Population (Thousands),2012
+10,Georgia,9904,11,Population (Thousands),2012
+11,Hawaii,1395,11,Population (Thousands),2012
+12,Idaho,1596,11,Population (Thousands),2012
+13,Illinois,12883,11,Population (Thousands),2012
+14,Indiana,6539,11,Population (Thousands),2012
+15,Iowa,3077,11,Population (Thousands),2012
+16,Kansas,2886,11,Population (Thousands),2012
+17,Kentucky,4388,11,Population (Thousands),2012
+18,Louisiana,4602,11,Population (Thousands),2012
+19,Maine,1328,11,Population (Thousands),2012
+20,Maryland,5888,11,Population (Thousands),2012
+21,Massachusetts,6664,11,Population (Thousands),2012
+22,Michigan,9898,11,Population (Thousands),2012
+23,Minnesota,5378,11,Population (Thousands),2012
+24,Mississippi,2985,11,Population (Thousands),2012
+25,Missouri,6026,11,Population (Thousands),2012
+26,Montana,1004,11,Population (Thousands),2012
+27,Nebraska,1854,11,Population (Thousands),2012
+28,Nevada,2745,11,Population (Thousands),2012
+29,New Hampshire,1325,11,Population (Thousands),2012
+30,New Jersey,8846,11,Population (Thousands),2012
+31,New Mexico,2088,11,Population (Thousands),2012
+32,New York,19574,11,Population (Thousands),2012
+33,North Carolina,9752,11,Population (Thousands),2012
+34,North Dakota,702,11,Population (Thousands),2012
+35,Ohio,11551,11,Population (Thousands),2012
+36,Oklahoma,3819,11,Population (Thousands),2012
+37,Oregon,3900,11,Population (Thousands),2012
+38,Pennsylvania,12769,11,Population (Thousands),2012
+39,Rhode Island,1055,11,Population (Thousands),2012
+40,South Carolina,4719,11,Population (Thousands),2012
+41,South Dakota,834,11,Population (Thousands),2012
+42,Tennessee,6456,11,Population (Thousands),2012
+43,Texas,26084,11,Population (Thousands),2012
+44,Utah,2854,11,Population (Thousands),2012
+45,Vermont,626,11,Population (Thousands),2012
+46,Virginia,8187,11,Population (Thousands),2012
+47,Washington,6899,11,Population (Thousands),2012
+48,West Virginia,1857,11,Population (Thousands),2012
+49,Wisconsin,5721,11,Population (Thousands),2012
+50,Wyoming,577,11,Population (Thousands),2012
+0,Alabama,4832,11,Population (Thousands),2013
+1,Alaska,738,11,Population (Thousands),2013
+2,Arizona,6635,11,Population (Thousands),2013
+3,Arkansas,2960,11,Population (Thousands),2013
+4,California,38254,11,Population (Thousands),2013
+5,Colorado,5271,11,Population (Thousands),2013
+6,Connecticut,3596,11,Population (Thousands),2013
+7,Delaware,924,11,Population (Thousands),2013
+8,District of Columbia,652,11,Population (Thousands),2013
+9,Florida,19552,11,Population (Thousands),2013
+10,Georgia,9976,11,Population (Thousands),2013
+11,Hawaii,1409,11,Population (Thousands),2013
+12,Idaho,1612,11,Population (Thousands),2013
+13,Illinois,12896,11,Population (Thousands),2013
+14,Indiana,6571,11,Population (Thousands),2013
+15,Iowa,3094,11,Population (Thousands),2013
+16,Kansas,2894,11,Population (Thousands),2013
+17,Kentucky,4407,11,Population (Thousands),2013
+18,Louisiana,4626,11,Population (Thousands),2013
+19,Maine,1329,11,Population (Thousands),2013
+20,Maryland,5925,11,Population (Thousands),2013
+21,Massachusetts,6715,11,Population (Thousands),2013
+22,Michigan,9915,11,Population (Thousands),2013
+23,Minnesota,5415,11,Population (Thousands),2013
+24,Mississippi,2990,11,Population (Thousands),2013
+25,Missouri,6043,11,Population (Thousands),2013
+26,Montana,1014,11,Population (Thousands),2013
+27,Nebraska,1866,11,Population (Thousands),2013
+28,Nevada,2777,11,Population (Thousands),2013
+29,New Hampshire,1327,11,Population (Thousands),2013
+30,New Jersey,8858,11,Population (Thousands),2013
+31,New Mexico,2093,11,Population (Thousands),2013
+32,New York,19626,11,Population (Thousands),2013
+33,North Carolina,9847,11,Population (Thousands),2013
+34,North Dakota,723,11,Population (Thousands),2013
+35,Ohio,11580,11,Population (Thousands),2013
+36,Oklahoma,3854,11,Population (Thousands),2013
+37,Oregon,3924,11,Population (Thousands),2013
+38,Pennsylvania,12780,11,Population (Thousands),2013
+39,Rhode Island,1056,11,Population (Thousands),2013
+40,South Carolina,4766,11,Population (Thousands),2013
+41,South Dakota,843,11,Population (Thousands),2013
+42,Tennessee,6497,11,Population (Thousands),2013
+43,Texas,26480,11,Population (Thousands),2013
+44,Utah,2899,11,Population (Thousands),2013
+45,Vermont,627,11,Population (Thousands),2013
+46,Virginia,8256,11,Population (Thousands),2013
+47,Washington,6966,11,Population (Thousands),2013
+48,West Virginia,1855,11,Population (Thousands),2013
+49,Wisconsin,5738,11,Population (Thousands),2013
+50,Wyoming,583,11,Population (Thousands),2013
+0,Alabama,4844,11,Population (Thousands),2014
+1,Alaska,737,11,Population (Thousands),2014
+2,Arizona,6733,11,Population (Thousands),2014
+3,Arkansas,2969,11,Population (Thousands),2014
+4,California,38587,11,Population (Thousands),2014
+5,Colorado,5353,11,Population (Thousands),2014
+6,Connecticut,3596,11,Population (Thousands),2014
+7,Delaware,933,11,Population (Thousands),2014
+8,District of Columbia,664,11,Population (Thousands),2014
+9,Florida,19854,11,Population (Thousands),2014
+10,Georgia,10071,11,Population (Thousands),2014
+11,Hawaii,1415,11,Population (Thousands),2014
+12,Idaho,1632,11,Population (Thousands),2014
+13,Illinois,12885,11,Population (Thousands),2014
+14,Indiana,6596,11,Population (Thousands),2014
+15,Iowa,3111,11,Population (Thousands),2014
+16,Kansas,2902,11,Population (Thousands),2014
+17,Kentucky,4417,11,Population (Thousands),2014
+18,Louisiana,4646,11,Population (Thousands),2014
+19,Maine,1331,11,Population (Thousands),2014
+20,Maryland,5960,11,Population (Thousands),2014
+21,Massachusetts,6765,11,Population (Thousands),2014
+22,Michigan,9932,11,Population (Thousands),2014
+23,Minnesota,5453,11,Population (Thousands),2014
+24,Mississippi,2992,11,Population (Thousands),2014
+25,Missouri,6059,11,Population (Thousands),2014
+26,Montana,1023,11,Population (Thousands),2014
+27,Nebraska,1880,11,Population (Thousands),2014
+28,Nevada,2819,11,Population (Thousands),2014
+29,New Hampshire,1334,11,Population (Thousands),2014
+30,New Jersey,8867,11,Population (Thousands),2014
+31,New Mexico,2090,11,Population (Thousands),2014
+32,New York,19653,11,Population (Thousands),2014
+33,North Carolina,9937,11,Population (Thousands),2014
+34,North Dakota,739,11,Population (Thousands),2014
+35,Ohio,11607,11,Population (Thousands),2014
+36,Oklahoma,3879,11,Population (Thousands),2014
+37,Oregon,3965,11,Population (Thousands),2014
+38,Pennsylvania,12792,11,Population (Thousands),2014
+39,Rhode Island,1057,11,Population (Thousands),2014
+40,South Carolina,4827,11,Population (Thousands),2014
+41,South Dakota,850,11,Population (Thousands),2014
+42,Tennessee,6545,11,Population (Thousands),2014
+43,Texas,26963,11,Population (Thousands),2014
+44,Utah,2938,11,Population (Thousands),2014
+45,Vermont,626,11,Population (Thousands),2014
+46,Virginia,8315,11,Population (Thousands),2014
+47,Washington,7058,11,Population (Thousands),2014
+48,West Virginia,1851,11,Population (Thousands),2014
+49,Wisconsin,5753,11,Population (Thousands),2014
+50,Wyoming,583,11,Population (Thousands),2014
+0,Alabama,4855,11,Population (Thousands),2015
+1,Alaska,738,11,Population (Thousands),2015
+2,Arizona,6833,11,Population (Thousands),2015
+3,Arkansas,2980,11,Population (Thousands),2015
+4,California,38904,11,Population (Thousands),2015
+5,Colorado,5454,11,Population (Thousands),2015
+6,Connecticut,3589,11,Population (Thousands),2015
+7,Delaware,942,11,Population (Thousands),2015
+8,District of Columbia,677,11,Population (Thousands),2015
+9,Florida,20219,11,Population (Thousands),2015
+10,Georgia,10183,11,Population (Thousands),2015
+11,Hawaii,1423,11,Population (Thousands),2015
+12,Idaho,1652,11,Population (Thousands),2015
+13,Illinois,12860,11,Population (Thousands),2015
+14,Indiana,6611,11,Population (Thousands),2015
+15,Iowa,3123,11,Population (Thousands),2015
+16,Kansas,2911,11,Population (Thousands),2015
+17,Kentucky,4429,11,Population (Thousands),2015
+18,Louisiana,4667,11,Population (Thousands),2015
+19,Maine,1329,11,Population (Thousands),2015
+20,Maryland,5989,11,Population (Thousands),2015
+21,Massachusetts,6797,11,Population (Thousands),2015
+22,Michigan,9934,11,Population (Thousands),2015
+23,Minnesota,5484,11,Population (Thousands),2015
+24,Mississippi,2990,11,Population (Thousands),2015
+25,Missouri,6075,11,Population (Thousands),2015
+26,Montana,1031,11,Population (Thousands),2015
+27,Nebraska,1892,11,Population (Thousands),2015
+28,Nevada,2869,11,Population (Thousands),2015
+29,New Hampshire,1337,11,Population (Thousands),2015
+30,New Jersey,8870,11,Population (Thousands),2015
+31,New Mexico,2090,11,Population (Thousands),2015
+32,New York,19657,11,Population (Thousands),2015
+33,North Carolina,10037,11,Population (Thousands),2015
+34,North Dakota,756,11,Population (Thousands),2015
+35,Ohio,11622,11,Population (Thousands),2015
+36,Oklahoma,3911,11,Population (Thousands),2015
+37,Oregon,4019,11,Population (Thousands),2015
+38,Pennsylvania,12790,11,Population (Thousands),2015
+39,Rhode Island,1057,11,Population (Thousands),2015
+40,South Carolina,4896,11,Population (Thousands),2015
+41,South Dakota,855,11,Population (Thousands),2015
+42,Tennessee,6595,11,Population (Thousands),2015
+43,Texas,27469,11,Population (Thousands),2015
+44,Utah,2984,11,Population (Thousands),2015
+45,Vermont,626,11,Population (Thousands),2015
+46,Virginia,8367,11,Population (Thousands),2015
+47,Washington,7167,11,Population (Thousands),2015
+48,West Virginia,1843,11,Population (Thousands),2015
+49,Wisconsin,5763,11,Population (Thousands),2015
+50,Wyoming,586,11,Population (Thousands),2015
+0,Alabama,4867,11,Population (Thousands),2016
+1,Alaska,743,11,Population (Thousands),2016
+2,Arizona,6945,11,Population (Thousands),2016
+3,Arkansas,2992,11,Population (Thousands),2016
+4,California,39149,11,Population (Thousands),2016
+5,Colorado,5544,11,Population (Thousands),2016
+6,Connecticut,3580,11,Population (Thousands),2016
+7,Delaware,950,11,Population (Thousands),2016
+8,District of Columbia,688,11,Population (Thousands),2016
+9,Florida,20627,11,Population (Thousands),2016
+10,Georgia,10308,11,Population (Thousands),2016
+11,Hawaii,1429,11,Population (Thousands),2016
+12,Idaho,1684,11,Population (Thousands),2016
+13,Illinois,12822,11,Population (Thousands),2016
+14,Indiana,6638,11,Population (Thousands),2016
+15,Iowa,3133,11,Population (Thousands),2016
+16,Kansas,2913,11,Population (Thousands),2016
+17,Kentucky,4440,11,Population (Thousands),2016
+18,Louisiana,4681,11,Population (Thousands),2016
+19,Maine,1332,11,Population (Thousands),2016
+20,Maryland,6007,11,Population (Thousands),2016
+21,Massachusetts,6827,11,Population (Thousands),2016
+22,Michigan,9954,11,Population (Thousands),2016
+23,Minnesota,5525,11,Population (Thousands),2016
+24,Mississippi,2991,11,Population (Thousands),2016
+25,Missouri,6091,11,Population (Thousands),2016
+26,Montana,1042,11,Population (Thousands),2016
+27,Nebraska,1906,11,Population (Thousands),2016
+28,Nevada,2920,11,Population (Thousands),2016
+29,New Hampshire,1344,11,Population (Thousands),2016
+30,New Jersey,8874,11,Population (Thousands),2016
+31,New Mexico,2093,11,Population (Thousands),2016
+32,New York,19636,11,Population (Thousands),2016
+33,North Carolina,10162,11,Population (Thousands),2016
+34,North Dakota,756,11,Population (Thousands),2016
+35,Ohio,11640,11,Population (Thousands),2016
+36,Oklahoma,3928,11,Population (Thousands),2016
+37,Oregon,4093,11,Population (Thousands),2016
+38,Pennsylvania,12788,11,Population (Thousands),2016
+39,Rhode Island,1058,11,Population (Thousands),2016
+40,South Carolina,4963,11,Population (Thousands),2016
+41,South Dakota,864,11,Population (Thousands),2016
+42,Tennessee,6651,11,Population (Thousands),2016
+43,Texas,27914,11,Population (Thousands),2016
+44,Utah,3044,11,Population (Thousands),2016
+45,Vermont,624,11,Population (Thousands),2016
+46,Virginia,8418,11,Population (Thousands),2016
+47,Washington,7300,11,Population (Thousands),2016
+48,West Virginia,1832,11,Population (Thousands),2016
+49,Wisconsin,5775,11,Population (Thousands),2016
+50,Wyoming,585,11,Population (Thousands),2016
+0,Alabama,4878,11,Population (Thousands),2017
+1,Alaska,741,11,Population (Thousands),2017
+2,Arizona,7048,11,Population (Thousands),2017
+3,Arkansas,3004,11,Population (Thousands),2017
+4,California,39338,11,Population (Thousands),2017
+5,Colorado,5617,11,Population (Thousands),2017
+6,Connecticut,3575,11,Population (Thousands),2017
+7,Delaware,958,11,Population (Thousands),2017
+8,District of Columbia,697,11,Population (Thousands),2017
+9,Florida,20977,11,Population (Thousands),2017
+10,Georgia,10417,11,Population (Thousands),2017
+11,Hawaii,1426,11,Population (Thousands),2017
+12,Idaho,1720,11,Population (Thousands),2017
+13,Illinois,12780,11,Population (Thousands),2017
+14,Indiana,6662,11,Population (Thousands),2017
+15,Iowa,3144,11,Population (Thousands),2017
+16,Kansas,2911,11,Population (Thousands),2017
+17,Kentucky,4456,11,Population (Thousands),2017
+18,Louisiana,4674,11,Population (Thousands),2017
+19,Maine,1336,11,Population (Thousands),2017
+20,Maryland,6028,11,Population (Thousands),2017
+21,Massachusetts,6864,11,Population (Thousands),2017
+22,Michigan,9977,11,Population (Thousands),2017
+23,Minnesota,5569,11,Population (Thousands),2017
+24,Mississippi,2991,11,Population (Thousands),2017
+25,Missouri,6111,11,Population (Thousands),2017
+26,Montana,1054,11,Population (Thousands),2017
+27,Nebraska,1917,11,Population (Thousands),2017
+28,Nevada,2972,11,Population (Thousands),2017
+29,New Hampshire,1350,11,Population (Thousands),2017
+30,New Jersey,8888,11,Population (Thousands),2017
+31,New Mexico,2093,11,Population (Thousands),2017
+32,New York,19594,11,Population (Thousands),2017
+33,North Carolina,10276,11,Population (Thousands),2017
+34,North Dakota,757,11,Population (Thousands),2017
+35,Ohio,11666,11,Population (Thousands),2017
+36,Oklahoma,3934,11,Population (Thousands),2017
+37,Oregon,4147,11,Population (Thousands),2017
+38,Pennsylvania,12795,11,Population (Thousands),2017
+39,Rhode Island,1057,11,Population (Thousands),2017
+40,South Carolina,5027,11,Population (Thousands),2017
+41,South Dakota,874,11,Population (Thousands),2017
+42,Tennessee,6715,11,Population (Thousands),2017
+43,Texas,28291,11,Population (Thousands),2017
+44,Utah,3104,11,Population (Thousands),2017
+45,Vermont,625,11,Population (Thousands),2017
+46,Virginia,8471,11,Population (Thousands),2017
+47,Washington,7428,11,Population (Thousands),2017
+48,West Virginia,1819,11,Population (Thousands),2017
+49,Wisconsin,5793,11,Population (Thousands),2017
+50,Wyoming,580,11,Population (Thousands),2017
