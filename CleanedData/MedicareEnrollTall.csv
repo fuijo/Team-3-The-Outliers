@@ -1,0 +1,409 @@
+,State_Name,Cost,Code,Item,Year
+0,Alabama,845,11,Medicare Enrollee Population (Thousands),2010
+1,Alaska,66,11,Medicare Enrollee Population (Thousands),2010
+2,Arizona,930,11,Medicare Enrollee Population (Thousands),2010
+3,Arkansas,531,11,Medicare Enrollee Population (Thousands),2010
+4,California,4757,11,Medicare Enrollee Population (Thousands),2010
+5,Colorado,625,11,Medicare Enrollee Population (Thousands),2010
+6,Connecticut,568,11,Medicare Enrollee Population (Thousands),2010
+7,Delaware,149,11,Medicare Enrollee Population (Thousands),2010
+8,District of Columbia,78,11,Medicare Enrollee Population (Thousands),2010
+9,Florida,3375,11,Medicare Enrollee Population (Thousands),2010
+10,Georgia,1236,11,Medicare Enrollee Population (Thousands),2010
+11,Hawaii,206,11,Medicare Enrollee Population (Thousands),2010
+12,Idaho,230,11,Medicare Enrollee Population (Thousands),2010
+13,Illinois,1839,11,Medicare Enrollee Population (Thousands),2010
+14,Indiana,1006,11,Medicare Enrollee Population (Thousands),2010
+15,Iowa,517,11,Medicare Enrollee Population (Thousands),2010
+16,Kansas,433,11,Medicare Enrollee Population (Thousands),2010
+17,Kentucky,760,11,Medicare Enrollee Population (Thousands),2010
+18,Louisiana,687,11,Medicare Enrollee Population (Thousands),2010
+19,Maine,265,11,Medicare Enrollee Population (Thousands),2010
+20,Maryland,785,11,Medicare Enrollee Population (Thousands),2010
+21,Massachusetts,1061,11,Medicare Enrollee Population (Thousands),2010
+22,Michigan,1651,11,Medicare Enrollee Population (Thousands),2010
+23,Minnesota,786,11,Medicare Enrollee Population (Thousands),2010
+24,Mississippi,497,11,Medicare Enrollee Population (Thousands),2010
+25,Missouri,1004,11,Medicare Enrollee Population (Thousands),2010
+26,Montana,170,11,Medicare Enrollee Population (Thousands),2010
+27,Nebraska,279,11,Medicare Enrollee Population (Thousands),2010
+28,Nevada,357,11,Medicare Enrollee Population (Thousands),2010
+29,New Hampshire,223,11,Medicare Enrollee Population (Thousands),2010
+30,New Jersey,1327,11,Medicare Enrollee Population (Thousands),2010
+31,New Mexico,313,11,Medicare Enrollee Population (Thousands),2010
+32,New York,2988,11,Medicare Enrollee Population (Thousands),2010
+33,North Carolina,1490,11,Medicare Enrollee Population (Thousands),2010
+34,North Dakota,109,11,Medicare Enrollee Population (Thousands),2010
+35,Ohio,1901,11,Medicare Enrollee Population (Thousands),2010
+36,Oklahoma,603,11,Medicare Enrollee Population (Thousands),2010
+37,Oregon,621,11,Medicare Enrollee Population (Thousands),2010
+38,Pennsylvania,2283,11,Medicare Enrollee Population (Thousands),2010
+39,Rhode Island,183,11,Medicare Enrollee Population (Thousands),2010
+40,South Carolina,774,11,Medicare Enrollee Population (Thousands),2010
+41,South Dakota,137,11,Medicare Enrollee Population (Thousands),2010
+42,Tennessee,1058,11,Medicare Enrollee Population (Thousands),2010
+43,Texas,3001,11,Medicare Enrollee Population (Thousands),2010
+44,Utah,283,11,Medicare Enrollee Population (Thousands),2010
+45,Vermont,112,11,Medicare Enrollee Population (Thousands),2010
+46,Virginia,1141,11,Medicare Enrollee Population (Thousands),2010
+47,Washington,972,11,Medicare Enrollee Population (Thousands),2010
+48,West Virginia,382,11,Medicare Enrollee Population (Thousands),2010
+49,Wisconsin,911,11,Medicare Enrollee Population (Thousands),2010
+50,Wyoming,80,11,Medicare Enrollee Population (Thousands),2010
+0,Alabama,864,11,Medicare Enrollee Population (Thousands),2011
+1,Alaska,69,11,Medicare Enrollee Population (Thousands),2011
+2,Arizona,962,11,Medicare Enrollee Population (Thousands),2011
+3,Arkansas,542,11,Medicare Enrollee Population (Thousands),2011
+4,California,4901,11,Medicare Enrollee Population (Thousands),2011
+5,Colorado,650,11,Medicare Enrollee Population (Thousands),2011
+6,Connecticut,577,11,Medicare Enrollee Population (Thousands),2011
+7,Delaware,154,11,Medicare Enrollee Population (Thousands),2011
+8,District of Columbia,80,11,Medicare Enrollee Population (Thousands),2011
+9,Florida,3472,11,Medicare Enrollee Population (Thousands),2011
+10,Georgia,1281,11,Medicare Enrollee Population (Thousands),2011
+11,Hawaii,213,11,Medicare Enrollee Population (Thousands),2011
+12,Idaho,238,11,Medicare Enrollee Population (Thousands),2011
+13,Illinois,1872,11,Medicare Enrollee Population (Thousands),2011
+14,Indiana,1027,11,Medicare Enrollee Population (Thousands),2011
+15,Iowa,523,11,Medicare Enrollee Population (Thousands),2011
+16,Kansas,439,11,Medicare Enrollee Population (Thousands),2011
+17,Kentucky,777,11,Medicare Enrollee Population (Thousands),2011
+18,Louisiana,703,11,Medicare Enrollee Population (Thousands),2011
+19,Maine,271,11,Medicare Enrollee Population (Thousands),2011
+20,Maryland,807,11,Medicare Enrollee Population (Thousands),2011
+21,Massachusetts,1085,11,Medicare Enrollee Population (Thousands),2011
+22,Michigan,1689,11,Medicare Enrollee Population (Thousands),2011
+23,Minnesota,804,11,Medicare Enrollee Population (Thousands),2011
+24,Mississippi,507,11,Medicare Enrollee Population (Thousands),2011
+25,Missouri,1022,11,Medicare Enrollee Population (Thousands),2011
+26,Montana,174,11,Medicare Enrollee Population (Thousands),2011
+27,Nebraska,283,11,Medicare Enrollee Population (Thousands),2011
+28,Nevada,372,11,Medicare Enrollee Population (Thousands),2011
+29,New Hampshire,229,11,Medicare Enrollee Population (Thousands),2011
+30,New Jersey,1352,11,Medicare Enrollee Population (Thousands),2011
+31,New Mexico,322,11,Medicare Enrollee Population (Thousands),2011
+32,New York,3041,11,Medicare Enrollee Population (Thousands),2011
+33,North Carolina,1533,11,Medicare Enrollee Population (Thousands),2011
+34,North Dakota,110,11,Medicare Enrollee Population (Thousands),2011
+35,Ohio,1934,11,Medicare Enrollee Population (Thousands),2011
+36,Oklahoma,615,11,Medicare Enrollee Population (Thousands),2011
+37,Oregon,640,11,Medicare Enrollee Population (Thousands),2011
+38,Pennsylvania,2312,11,Medicare Enrollee Population (Thousands),2011
+39,Rhode Island,186,11,Medicare Enrollee Population (Thousands),2011
+40,South Carolina,799,11,Medicare Enrollee Population (Thousands),2011
+41,South Dakota,139,11,Medicare Enrollee Population (Thousands),2011
+42,Tennessee,1086,11,Medicare Enrollee Population (Thousands),2011
+43,Texas,3104,11,Medicare Enrollee Population (Thousands),2011
+44,Utah,292,11,Medicare Enrollee Population (Thousands),2011
+45,Vermont,115,11,Medicare Enrollee Population (Thousands),2011
+46,Virginia,1173,11,Medicare Enrollee Population (Thousands),2011
+47,Washington,1005,11,Medicare Enrollee Population (Thousands),2011
+48,West Virginia,386,11,Medicare Enrollee Population (Thousands),2011
+49,Wisconsin,931,11,Medicare Enrollee Population (Thousands),2011
+50,Wyoming,82,11,Medicare Enrollee Population (Thousands),2011
+0,Alabama,896,11,Medicare Enrollee Population (Thousands),2012
+1,Alaska,73,11,Medicare Enrollee Population (Thousands),2012
+2,Arizona,1009,11,Medicare Enrollee Population (Thousands),2012
+3,Arkansas,559,11,Medicare Enrollee Population (Thousands),2012
+4,California,5111,11,Medicare Enrollee Population (Thousands),2012
+5,Colorado,688,11,Medicare Enrollee Population (Thousands),2012
+6,Connecticut,595,11,Medicare Enrollee Population (Thousands),2012
+7,Delaware,161,11,Medicare Enrollee Population (Thousands),2012
+8,District of Columbia,82,11,Medicare Enrollee Population (Thousands),2012
+9,Florida,3621,11,Medicare Enrollee Population (Thousands),2012
+10,Georgia,1351,11,Medicare Enrollee Population (Thousands),2012
+11,Hawaii,222,11,Medicare Enrollee Population (Thousands),2012
+12,Idaho,250,11,Medicare Enrollee Population (Thousands),2012
+13,Illinois,1935,11,Medicare Enrollee Population (Thousands),2012
+14,Indiana,1065,11,Medicare Enrollee Population (Thousands),2012
+15,Iowa,537,11,Medicare Enrollee Population (Thousands),2012
+16,Kansas,454,11,Medicare Enrollee Population (Thousands),2012
+17,Kentucky,804,11,Medicare Enrollee Population (Thousands),2012
+18,Louisiana,729,11,Medicare Enrollee Population (Thousands),2012
+19,Maine,282,11,Medicare Enrollee Population (Thousands),2012
+20,Maryland,845,11,Medicare Enrollee Population (Thousands),2012
+21,Massachusetts,1126,11,Medicare Enrollee Population (Thousands),2012
+22,Michigan,1754,11,Medicare Enrollee Population (Thousands),2012
+23,Minnesota,836,11,Medicare Enrollee Population (Thousands),2012
+24,Mississippi,524,11,Medicare Enrollee Population (Thousands),2012
+25,Missouri,1058,11,Medicare Enrollee Population (Thousands),2012
+26,Montana,182,11,Medicare Enrollee Population (Thousands),2012
+27,Nebraska,291,11,Medicare Enrollee Population (Thousands),2012
+28,Nevada,394,11,Medicare Enrollee Population (Thousands),2012
+29,New Hampshire,241,11,Medicare Enrollee Population (Thousands),2012
+30,New Jersey,1398,11,Medicare Enrollee Population (Thousands),2012
+31,New Mexico,336,11,Medicare Enrollee Population (Thousands),2012
+32,New York,3138,11,Medicare Enrollee Population (Thousands),2012
+33,North Carolina,1604,11,Medicare Enrollee Population (Thousands),2012
+34,North Dakota,112,11,Medicare Enrollee Population (Thousands),2012
+35,Ohio,2003,11,Medicare Enrollee Population (Thousands),2012
+36,Oklahoma,636,11,Medicare Enrollee Population (Thousands),2012
+37,Oregon,672,11,Medicare Enrollee Population (Thousands),2012
+38,Pennsylvania,2385,11,Medicare Enrollee Population (Thousands),2012
+39,Rhode Island,191,11,Medicare Enrollee Population (Thousands),2012
+40,South Carolina,840,11,Medicare Enrollee Population (Thousands),2012
+41,South Dakota,143,11,Medicare Enrollee Population (Thousands),2012
+42,Tennessee,1133,11,Medicare Enrollee Population (Thousands),2012
+43,Texas,3256,11,Medicare Enrollee Population (Thousands),2012
+44,Utah,307,11,Medicare Enrollee Population (Thousands),2012
+45,Vermont,120,11,Medicare Enrollee Population (Thousands),2012
+46,Virginia,1227,11,Medicare Enrollee Population (Thousands),2012
+47,Washington,1056,11,Medicare Enrollee Population (Thousands),2012
+48,West Virginia,397,11,Medicare Enrollee Population (Thousands),2012
+49,Wisconsin,966,11,Medicare Enrollee Population (Thousands),2012
+50,Wyoming,86,11,Medicare Enrollee Population (Thousands),2012
+0,Alabama,922,11,Medicare Enrollee Population (Thousands),2013
+1,Alaska,76,11,Medicare Enrollee Population (Thousands),2013
+2,Arizona,1051,11,Medicare Enrollee Population (Thousands),2013
+3,Arkansas,572,11,Medicare Enrollee Population (Thousands),2013
+4,California,5294,11,Medicare Enrollee Population (Thousands),2013
+5,Colorado,722,11,Medicare Enrollee Population (Thousands),2013
+6,Connecticut,608,11,Medicare Enrollee Population (Thousands),2013
+7,Delaware,168,11,Medicare Enrollee Population (Thousands),2013
+8,District of Columbia,84,11,Medicare Enrollee Population (Thousands),2013
+9,Florida,3757,11,Medicare Enrollee Population (Thousands),2013
+10,Georgia,1411,11,Medicare Enrollee Population (Thousands),2013
+11,Hawaii,230,11,Medicare Enrollee Population (Thousands),2013
+12,Idaho,261,11,Medicare Enrollee Population (Thousands),2013
+13,Illinois,1982,11,Medicare Enrollee Population (Thousands),2013
+14,Indiana,1094,11,Medicare Enrollee Population (Thousands),2013
+15,Iowa,549,11,Medicare Enrollee Population (Thousands),2013
+16,Kansas,465,11,Medicare Enrollee Population (Thousands),2013
+17,Kentucky,826,11,Medicare Enrollee Population (Thousands),2013
+18,Louisiana,751,11,Medicare Enrollee Population (Thousands),2013
+19,Maine,291,11,Medicare Enrollee Population (Thousands),2013
+20,Maryland,876,11,Medicare Enrollee Population (Thousands),2013
+21,Massachusetts,1158,11,Medicare Enrollee Population (Thousands),2013
+22,Michigan,1805,11,Medicare Enrollee Population (Thousands),2013
+23,Minnesota,862,11,Medicare Enrollee Population (Thousands),2013
+24,Mississippi,537,11,Medicare Enrollee Population (Thousands),2013
+25,Missouri,1086,11,Medicare Enrollee Population (Thousands),2013
+26,Montana,188,11,Medicare Enrollee Population (Thousands),2013
+27,Nebraska,298,11,Medicare Enrollee Population (Thousands),2013
+28,Nevada,414,11,Medicare Enrollee Population (Thousands),2013
+29,New Hampshire,250,11,Medicare Enrollee Population (Thousands),2013
+30,New Jersey,1430,11,Medicare Enrollee Population (Thousands),2013
+31,New Mexico,349,11,Medicare Enrollee Population (Thousands),2013
+32,New York,3211,11,Medicare Enrollee Population (Thousands),2013
+33,North Carolina,1663,11,Medicare Enrollee Population (Thousands),2013
+34,North Dakota,114,11,Medicare Enrollee Population (Thousands),2013
+35,Ohio,2055,11,Medicare Enrollee Population (Thousands),2013
+36,Oklahoma,650,11,Medicare Enrollee Population (Thousands),2013
+37,Oregon,700,11,Medicare Enrollee Population (Thousands),2013
+38,Pennsylvania,2437,11,Medicare Enrollee Population (Thousands),2013
+39,Rhode Island,196,11,Medicare Enrollee Population (Thousands),2013
+40,South Carolina,875,11,Medicare Enrollee Population (Thousands),2013
+41,South Dakota,147,11,Medicare Enrollee Population (Thousands),2013
+42,Tennessee,1170,11,Medicare Enrollee Population (Thousands),2013
+43,Texas,3388,11,Medicare Enrollee Population (Thousands),2013
+44,Utah,320,11,Medicare Enrollee Population (Thousands),2013
+45,Vermont,124,11,Medicare Enrollee Population (Thousands),2013
+46,Virginia,1269,11,Medicare Enrollee Population (Thousands),2013
+47,Washington,1100,11,Medicare Enrollee Population (Thousands),2013
+48,West Virginia,404,11,Medicare Enrollee Population (Thousands),2013
+49,Wisconsin,994,11,Medicare Enrollee Population (Thousands),2013
+50,Wyoming,89,11,Medicare Enrollee Population (Thousands),2013
+0,Alabama,947,11,Medicare Enrollee Population (Thousands),2014
+1,Alaska,80,11,Medicare Enrollee Population (Thousands),2014
+2,Arizona,1096,11,Medicare Enrollee Population (Thousands),2014
+3,Arkansas,584,11,Medicare Enrollee Population (Thousands),2014
+4,California,5476,11,Medicare Enrollee Population (Thousands),2014
+5,Colorado,755,11,Medicare Enrollee Population (Thousands),2014
+6,Connecticut,619,11,Medicare Enrollee Population (Thousands),2014
+7,Delaware,175,11,Medicare Enrollee Population (Thousands),2014
+8,District of Columbia,87,11,Medicare Enrollee Population (Thousands),2014
+9,Florida,3900,11,Medicare Enrollee Population (Thousands),2014
+10,Georgia,1469,11,Medicare Enrollee Population (Thousands),2014
+11,Hawaii,237,11,Medicare Enrollee Population (Thousands),2014
+12,Idaho,271,11,Medicare Enrollee Population (Thousands),2014
+13,Illinois,2026,11,Medicare Enrollee Population (Thousands),2014
+14,Indiana,1124,11,Medicare Enrollee Population (Thousands),2014
+15,Iowa,561,11,Medicare Enrollee Population (Thousands),2014
+16,Kansas,477,11,Medicare Enrollee Population (Thousands),2014
+17,Kentucky,846,11,Medicare Enrollee Population (Thousands),2014
+18,Louisiana,772,11,Medicare Enrollee Population (Thousands),2014
+19,Maine,299,11,Medicare Enrollee Population (Thousands),2014
+20,Maryland,905,11,Medicare Enrollee Population (Thousands),2014
+21,Massachusetts,1189,11,Medicare Enrollee Population (Thousands),2014
+22,Michigan,1853,11,Medicare Enrollee Population (Thousands),2014
+23,Minnesota,888,11,Medicare Enrollee Population (Thousands),2014
+24,Mississippi,549,11,Medicare Enrollee Population (Thousands),2014
+25,Missouri,1113,11,Medicare Enrollee Population (Thousands),2014
+26,Montana,195,11,Medicare Enrollee Population (Thousands),2014
+27,Nebraska,306,11,Medicare Enrollee Population (Thousands),2014
+28,Nevada,435,11,Medicare Enrollee Population (Thousands),2014
+29,New Hampshire,259,11,Medicare Enrollee Population (Thousands),2014
+30,New Jersey,1462,11,Medicare Enrollee Population (Thousands),2014
+31,New Mexico,361,11,Medicare Enrollee Population (Thousands),2014
+32,New York,3278,11,Medicare Enrollee Population (Thousands),2014
+33,North Carolina,1719,11,Medicare Enrollee Population (Thousands),2014
+34,North Dakota,117,11,Medicare Enrollee Population (Thousands),2014
+35,Ohio,2108,11,Medicare Enrollee Population (Thousands),2014
+36,Oklahoma,665,11,Medicare Enrollee Population (Thousands),2014
+37,Oregon,728,11,Medicare Enrollee Population (Thousands),2014
+38,Pennsylvania,2489,11,Medicare Enrollee Population (Thousands),2014
+39,Rhode Island,200,11,Medicare Enrollee Population (Thousands),2014
+40,South Carolina,910,11,Medicare Enrollee Population (Thousands),2014
+41,South Dakota,152,11,Medicare Enrollee Population (Thousands),2014
+42,Tennessee,1206,11,Medicare Enrollee Population (Thousands),2014
+43,Texas,3516,11,Medicare Enrollee Population (Thousands),2014
+44,Utah,333,11,Medicare Enrollee Population (Thousands),2014
+45,Vermont,128,11,Medicare Enrollee Population (Thousands),2014
+46,Virginia,1311,11,Medicare Enrollee Population (Thousands),2014
+47,Washington,1146,11,Medicare Enrollee Population (Thousands),2014
+48,West Virginia,411,11,Medicare Enrollee Population (Thousands),2014
+49,Wisconsin,1023,11,Medicare Enrollee Population (Thousands),2014
+50,Wyoming,92,11,Medicare Enrollee Population (Thousands),2014
+0,Alabama,968,11,Medicare Enrollee Population (Thousands),2015
+1,Alaska,84,11,Medicare Enrollee Population (Thousands),2015
+2,Arizona,1140,11,Medicare Enrollee Population (Thousands),2015
+3,Arkansas,594,11,Medicare Enrollee Population (Thousands),2015
+4,California,5645,11,Medicare Enrollee Population (Thousands),2015
+5,Colorado,786,11,Medicare Enrollee Population (Thousands),2015
+6,Connecticut,630,11,Medicare Enrollee Population (Thousands),2015
+7,Delaware,181,11,Medicare Enrollee Population (Thousands),2015
+8,District of Columbia,88,11,Medicare Enrollee Population (Thousands),2015
+9,Florida,4040,11,Medicare Enrollee Population (Thousands),2015
+10,Georgia,1521,11,Medicare Enrollee Population (Thousands),2015
+11,Hawaii,244,11,Medicare Enrollee Population (Thousands),2015
+12,Idaho,283,11,Medicare Enrollee Population (Thousands),2015
+13,Illinois,2063,11,Medicare Enrollee Population (Thousands),2015
+14,Indiana,1151,11,Medicare Enrollee Population (Thousands),2015
+15,Iowa,572,11,Medicare Enrollee Population (Thousands),2015
+16,Kansas,487,11,Medicare Enrollee Population (Thousands),2015
+17,Kentucky,863,11,Medicare Enrollee Population (Thousands),2015
+18,Louisiana,793,11,Medicare Enrollee Population (Thousands),2015
+19,Maine,306,11,Medicare Enrollee Population (Thousands),2015
+20,Maryland,930,11,Medicare Enrollee Population (Thousands),2015
+21,Massachusetts,1217,11,Medicare Enrollee Population (Thousands),2015
+22,Michigan,1894,11,Medicare Enrollee Population (Thousands),2015
+23,Minnesota,912,11,Medicare Enrollee Population (Thousands),2015
+24,Mississippi,560,11,Medicare Enrollee Population (Thousands),2015
+25,Missouri,1136,11,Medicare Enrollee Population (Thousands),2015
+26,Montana,201,11,Medicare Enrollee Population (Thousands),2015
+27,Nebraska,314,11,Medicare Enrollee Population (Thousands),2015
+28,Nevada,455,11,Medicare Enrollee Population (Thousands),2015
+29,New Hampshire,266,11,Medicare Enrollee Population (Thousands),2015
+30,New Jersey,1489,11,Medicare Enrollee Population (Thousands),2015
+31,New Mexico,373,11,Medicare Enrollee Population (Thousands),2015
+32,New York,3339,11,Medicare Enrollee Population (Thousands),2015
+33,North Carolina,1771,11,Medicare Enrollee Population (Thousands),2015
+34,North Dakota,119,11,Medicare Enrollee Population (Thousands),2015
+35,Ohio,2153,11,Medicare Enrollee Population (Thousands),2015
+36,Oklahoma,679,11,Medicare Enrollee Population (Thousands),2015
+37,Oregon,756,11,Medicare Enrollee Population (Thousands),2015
+38,Pennsylvania,2531,11,Medicare Enrollee Population (Thousands),2015
+39,Rhode Island,203,11,Medicare Enrollee Population (Thousands),2015
+40,South Carolina,943,11,Medicare Enrollee Population (Thousands),2015
+41,South Dakota,156,11,Medicare Enrollee Population (Thousands),2015
+42,Tennessee,1236,11,Medicare Enrollee Population (Thousands),2015
+43,Texas,3636,11,Medicare Enrollee Population (Thousands),2015
+44,Utah,346,11,Medicare Enrollee Population (Thousands),2015
+45,Vermont,131,11,Medicare Enrollee Population (Thousands),2015
+46,Virginia,1349,11,Medicare Enrollee Population (Thousands),2015
+47,Washington,1192,11,Medicare Enrollee Population (Thousands),2015
+48,West Virginia,416,11,Medicare Enrollee Population (Thousands),2015
+49,Wisconsin,1050,11,Medicare Enrollee Population (Thousands),2015
+50,Wyoming,95,11,Medicare Enrollee Population (Thousands),2015
+0,Alabama,988,11,Medicare Enrollee Population (Thousands),2016
+1,Alaska,88,11,Medicare Enrollee Population (Thousands),2016
+2,Arizona,1180,11,Medicare Enrollee Population (Thousands),2016
+3,Arkansas,607,11,Medicare Enrollee Population (Thousands),2016
+4,California,5814,11,Medicare Enrollee Population (Thousands),2016
+5,Colorado,816,11,Medicare Enrollee Population (Thousands),2016
+6,Connecticut,642,11,Medicare Enrollee Population (Thousands),2016
+7,Delaware,187,11,Medicare Enrollee Population (Thousands),2016
+8,District of Columbia,90,11,Medicare Enrollee Population (Thousands),2016
+9,Florida,4164,11,Medicare Enrollee Population (Thousands),2016
+10,Georgia,1573,11,Medicare Enrollee Population (Thousands),2016
+11,Hawaii,252,11,Medicare Enrollee Population (Thousands),2016
+12,Idaho,294,11,Medicare Enrollee Population (Thousands),2016
+13,Illinois,2109,11,Medicare Enrollee Population (Thousands),2016
+14,Indiana,1178,11,Medicare Enrollee Population (Thousands),2016
+15,Iowa,585,11,Medicare Enrollee Population (Thousands),2016
+16,Kansas,498,11,Medicare Enrollee Population (Thousands),2016
+17,Kentucky,880,11,Medicare Enrollee Population (Thousands),2016
+18,Louisiana,810,11,Medicare Enrollee Population (Thousands),2016
+19,Maine,314,11,Medicare Enrollee Population (Thousands),2016
+20,Maryland,958,11,Medicare Enrollee Population (Thousands),2016
+21,Massachusetts,1246,11,Medicare Enrollee Population (Thousands),2016
+22,Michigan,1938,11,Medicare Enrollee Population (Thousands),2016
+23,Minnesota,941,11,Medicare Enrollee Population (Thousands),2016
+24,Mississippi,569,11,Medicare Enrollee Population (Thousands),2016
+25,Missouri,1160,11,Medicare Enrollee Population (Thousands),2016
+26,Montana,208,11,Medicare Enrollee Population (Thousands),2016
+27,Nebraska,322,11,Medicare Enrollee Population (Thousands),2016
+28,Nevada,472,11,Medicare Enrollee Population (Thousands),2016
+29,New Hampshire,272,11,Medicare Enrollee Population (Thousands),2016
+30,New Jersey,1523,11,Medicare Enrollee Population (Thousands),2016
+31,New Mexico,384,11,Medicare Enrollee Population (Thousands),2016
+32,New York,3410,11,Medicare Enrollee Population (Thousands),2016
+33,North Carolina,1823,11,Medicare Enrollee Population (Thousands),2016
+34,North Dakota,121,11,Medicare Enrollee Population (Thousands),2016
+35,Ohio,2202,11,Medicare Enrollee Population (Thousands),2016
+36,Oklahoma,693,11,Medicare Enrollee Population (Thousands),2016
+37,Oregon,782,11,Medicare Enrollee Population (Thousands),2016
+38,Pennsylvania,2582,11,Medicare Enrollee Population (Thousands),2016
+39,Rhode Island,207,11,Medicare Enrollee Population (Thousands),2016
+40,South Carolina,974,11,Medicare Enrollee Population (Thousands),2016
+41,South Dakota,161,11,Medicare Enrollee Population (Thousands),2016
+42,Tennessee,1266,11,Medicare Enrollee Population (Thousands),2016
+43,Texas,3757,11,Medicare Enrollee Population (Thousands),2016
+44,Utah,359,11,Medicare Enrollee Population (Thousands),2016
+45,Vermont,135,11,Medicare Enrollee Population (Thousands),2016
+46,Virginia,1389,11,Medicare Enrollee Population (Thousands),2016
+47,Washington,1235,11,Medicare Enrollee Population (Thousands),2016
+48,West Virginia,422,11,Medicare Enrollee Population (Thousands),2016
+49,Wisconsin,1080,11,Medicare Enrollee Population (Thousands),2016
+50,Wyoming,98,11,Medicare Enrollee Population (Thousands),2016
+0,Alabama,1006,11,Medicare Enrollee Population (Thousands),2017
+1,Alaska,92,11,Medicare Enrollee Population (Thousands),2017
+2,Arizona,1224,11,Medicare Enrollee Population (Thousands),2017
+3,Arkansas,617,11,Medicare Enrollee Population (Thousands),2017
+4,California,5966,11,Medicare Enrollee Population (Thousands),2017
+5,Colorado,840,11,Medicare Enrollee Population (Thousands),2017
+6,Connecticut,654,11,Medicare Enrollee Population (Thousands),2017
+7,Delaware,193,11,Medicare Enrollee Population (Thousands),2017
+8,District of Columbia,91,11,Medicare Enrollee Population (Thousands),2017
+9,Florida,4289,11,Medicare Enrollee Population (Thousands),2017
+10,Georgia,1622,11,Medicare Enrollee Population (Thousands),2017
+11,Hawaii,259,11,Medicare Enrollee Population (Thousands),2017
+12,Idaho,306,11,Medicare Enrollee Population (Thousands),2017
+13,Illinois,2148,11,Medicare Enrollee Population (Thousands),2017
+14,Indiana,1204,11,Medicare Enrollee Population (Thousands),2017
+15,Iowa,598,11,Medicare Enrollee Population (Thousands),2017
+16,Kansas,510,11,Medicare Enrollee Population (Thousands),2017
+17,Kentucky,895,11,Medicare Enrollee Population (Thousands),2017
+18,Louisiana,828,11,Medicare Enrollee Population (Thousands),2017
+19,Maine,322,11,Medicare Enrollee Population (Thousands),2017
+20,Maryland,983,11,Medicare Enrollee Population (Thousands),2017
+21,Massachusetts,1274,11,Medicare Enrollee Population (Thousands),2017
+22,Michigan,1979,11,Medicare Enrollee Population (Thousands),2017
+23,Minnesota,967,11,Medicare Enrollee Population (Thousands),2017
+24,Mississippi,579,11,Medicare Enrollee Population (Thousands),2017
+25,Missouri,1181,11,Medicare Enrollee Population (Thousands),2017
+26,Montana,215,11,Medicare Enrollee Population (Thousands),2017
+27,Nebraska,329,11,Medicare Enrollee Population (Thousands),2017
+28,Nevada,491,11,Medicare Enrollee Population (Thousands),2017
+29,New Hampshire,281,11,Medicare Enrollee Population (Thousands),2017
+30,New Jersey,1551,11,Medicare Enrollee Population (Thousands),2017
+31,New Mexico,396,11,Medicare Enrollee Population (Thousands),2017
+32,New York,3476,11,Medicare Enrollee Population (Thousands),2017
+33,North Carolina,1875,11,Medicare Enrollee Population (Thousands),2017
+34,North Dakota,124,11,Medicare Enrollee Population (Thousands),2017
+35,Ohio,2246,11,Medicare Enrollee Population (Thousands),2017
+36,Oklahoma,706,11,Medicare Enrollee Population (Thousands),2017
+37,Oregon,807,11,Medicare Enrollee Population (Thousands),2017
+38,Pennsylvania,2629,11,Medicare Enrollee Population (Thousands),2017
+39,Rhode Island,211,11,Medicare Enrollee Population (Thousands),2017
+40,South Carolina,1005,11,Medicare Enrollee Population (Thousands),2017
+41,South Dakota,165,11,Medicare Enrollee Population (Thousands),2017
+42,Tennessee,1293,11,Medicare Enrollee Population (Thousands),2017
+43,Texas,3878,11,Medicare Enrollee Population (Thousands),2017
+44,Utah,371,11,Medicare Enrollee Population (Thousands),2017
+45,Vermont,139,11,Medicare Enrollee Population (Thousands),2017
+46,Virginia,1427,11,Medicare Enrollee Population (Thousands),2017
+47,Washington,1275,11,Medicare Enrollee Population (Thousands),2017
+48,West Virginia,427,11,Medicare Enrollee Population (Thousands),2017
+49,Wisconsin,1110,11,Medicare Enrollee Population (Thousands),2017
+50,Wyoming,102,11,Medicare Enrollee Population (Thousands),2017
