@@ -28,7 +28,10 @@ UsefulFuntions.py is a collection of funtions that we thought would end up being
 Analysis of Data
 
 Spending over time
-There is an increase of spending over time however the amount of spending per person has not increased by as much meaning that the increase is more likely related to population than the price of the insurance.
+There is an increase of spending over time however the amount of spending per person has not increased by as much meaning that the increase is more likely related to population than the price of the insurance. The ratio of 3 types of spending has also stayed close to the same over the 7 year time period.
+
+Mortaltiy VS goverenment spending
+For this comparison we took the total deaths in each year from 2010 to 2017 and divided it by the population to account for some states having much larger populations that others to get the percentage of people who died in a state in a given year. After that we looked at the total spending of each of those states also divided by the population of those state to get the per captia spending of each state for each of the year. The we made a scatter plot of the 2 values, Mortality Rate and Per capita spent on insurance to see if there was a correlation. We found an Rsquared value of .26 or that there was about a 26% relation between the money spent on insurance and the death rate of the state. This shows a weak coorelation between the 2.
 
 Government VS personal spending
 Healthcare is getting more expensive and spend is increasing year over year – no surprise there. But rather than just looking at total spend, we want to see where the spend was increasing. This segment looked at government program spending to understand if it was increasing year over year on a variety of levels.
