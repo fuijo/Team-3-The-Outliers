@@ -5,9 +5,12 @@ Team Members: Fran Ruiz, Kathryn Mcatee, Nurmaa Dashzeveg, Sam Sims
 Introduction to project
 US Healthcare spend continues to increase year over year. Is the investment worth it? And does that answer change based on where you live, how much you make, if you receive government assistance, or where all of that spend is being allocated? The Outliers plan to figure that out.
 
-What does it do: Brings awareness about insurance spending and it impact on health outcomes.
+What does it do: 
+With the increasing investment individuals and families need to make for healthcare year over year, whether you’re on government or private insurance, there is an interest to understand if the amount personally paid is contributing to an individual’s greater good.
 
-Target Audience: Ameican population that utilizes health insurance
+The Outliers aim to give peace of mind to consumers wondering the same question. For our first endeavor, we will only be looking at CMS data/spend compared to Census and Mortality data to see if there is correlation between spend, location, income, and death, but recognize there are many other avenues to compare to truly get to the root of this complex answer.
+
+Target Audience: American population that utilizes health insurance
 
 Data: 
 2 CMS.gov Health Expenditures by State of Residence, 
