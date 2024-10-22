@@ -12,3 +12,5 @@ Ameican population that utilizes health insurance
 https://www.statista.com/statistics/184955/us-national-health-expenditures-per-capita-since-1960/ 
 
 Run code per usual, data is in the correct locations
+
+UsefulFuntions.py is a collection of funtions that we thought would end up being used multiple times in an attempt to streamline the coding. There is a function for linear regression, and 2 for creating scatter plots, one that utilizes linear regression and one that does not.
