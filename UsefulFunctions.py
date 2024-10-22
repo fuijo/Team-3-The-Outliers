@@ -18,17 +18,17 @@ def LinReg(xs,ys):
 
 # %%
 #Define ScatPlotandReg creates a scatter plot with a linear Regression show as well as an Rsquared value
-#Inputs: takes 2 data series, your x and y coordinates, labels for  the axises and a title
+#Inputs: takes 2 data series, your x and y coordinates, labels for  the axises, a title,and a filename
 #Output shows and saves a scatterplot
 def ScatPlotandReg(xs,ys,xlab,ylab,title,filename):
-    reginfo = LineReg(xs,ys)
+    reginfo = LinReg(xs,ys)
     print(f"The r^2-value is: {reginfo[2]**2}")
     plt.scatter(xs,ys)
     plt.xlabel(xlab)
     plt.ylabel(ylab)
     plt.title(title)
     plt.plot(xs,reginfo[5],color = 'r')
-    plt.annotate(reginfo[6],ha = 'left',va = 'top',fontsize=15,color="red")
+    plt.annotate(reginfo[6], xy=(0, 1), xycoords='axes fraction', xytext=(10, -10), textcoords='offset points',ha = 'left',va = 'top',fontsize=15,color="red")
     plt.savefig(f"Graphs/{filename}")
     plt.show()
 
