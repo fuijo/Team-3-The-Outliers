@@ -190,3 +190,65 @@ Consistent States: States that consistently appear in the top 10 for all three y
 Year-on-Year Changes: The chart shows states with increasing or decreasing Medicare enrollments, which may indicate demographic shifts, changes in state healthcare policies, or other factors. 
 
 The visual comparison of Medicare enrollments in 2010, 2014, and 2016 highlights key states with high Medicare enrollments and reveals trends over time. This information can be useful for healthcare policymakers to assess the demand for Medicare services and plan resource allocation accordingly. 
+
+A look into Income - The relationship between high earners and healthcare spending. 
+
+Income varies based on job types and perhaps legal wills or inheritance. Income can indeed differ widely depending on the type of job, the industry, level of experience, location, and many other factors. Health expenses can vary depending on the healthcare provider, location, type of care, and the healthcare system in each state in United States. In the current project, we aim to see if health care expenses correlate with income level of people.  
+
+To answer our question, we analyzed US_POPULATION20.CSV for population by states throughout years 2010-2017, US_PER_CAPITA20.CSV for spendings by states throughout years and Income.csv for household income by states collected from United States Census Bureau (refer to attached data_inventory.xlsx).  
+
+  
+
+Strategy of the analysis 
+
+           
+
+First, all data were cleaned using .dropna() (Fig.1).  After cleaning, data showed equal number of contents when checking with .count, and reduced number of columns and rows when use .shape.  Later, useful columns for further analysis were selected and saved in new dataframes. In US_POPULATION.csv, population were multiplied by thousand to create total population and the years in Year-columns were shifted to the rows by using looping and .concat(). Income per person in different states was calculated by dividing Income.csv by number of total populations. Next, using looping and .concat(), columns_Year is shifted to the rows and using .pivot_table() contents in the Items column were listed as columns to analyze US_Per_Capita20.csv to create same arrangement of the table as in Income.csv. After that, the values of the spendings in different health care were combined to estimate total expenses of health care. Finally, all data were merged by utilizing .merge() for further analysis.  
+
+Output of the analysis 
+
+  
+
+Comparing income levels of 2010 to 2017 of States with their health care spendings show mild positive correlation (R=0.39, P=1.188e-16) indicating wealthy population spends more in health care. Income levels of 51 states (includes District of Columbia) of US show small differences; the highest income was in District of Columbia, Maine, and Vermont and the states with lowest income were Utah, Hawai and California suggesting average earning of States in US is balanced. States like California where most of the richest people live has big diversity in terms of income level.
+
+Alternative potential strategy: In the current analysis, I combined all spendings together and compared with income level. It might be better to categorize spendings into health serious illness-related and healthcare services for pleasure will estimate better correlation with income.  
+
+ 
+
+Lesson learned: 
+
+1. Understanding the data and understanding the questions to be answered is the most important.  
+
+2. Exploring in data deeply and make a detailed strategy for the analysis and collect the information (codes) that is useful for this analysis to answer the specific questions are also required. Data are broad enough to create numerous outputs, focusing on the specific question will save time and reproducibility. 
+
+3. Checking data quality and the resources of data are essential to be considered before starting analysis.  
+
+4. Be friends with GOOGLE 
+
+  
+
+What should be done: (1) In the current analysis, I have combined different expenses of health care to compare Income level and mild correlation of expenses with Income. If expenses were categorized, it might lead to a better outcome. (2) The income values of per person was less than one which was less than expenses on health care. The original value of Income might be in thousands; however it was not indicated in the resource. It traced back in the future.  
+
+  
+
+Conclusion 
+
+ 
+
+Analyses of income levels versus healthcare expenses provide a mild positive correlation, indicating that people spend, and purchase healthcare products based on their income level.  
+
+  
+
+Discussion 
+
+  
+
+(1) People with higher incomes tend to invest more in preventive care and healthier lifestyle choices (e.g., gym memberships, organic foods, wellness programs), which can result in higher overall healthcare spending. These expenditures reflect the ability to prioritize long-term health.  
+
+(2) Although higher-income people can afford routine healthcare and prevention, lower-income people tend to spend a higher percentage of their income on healthcare in emergency situations. But the overall spending remains lower due to limited access to services.  
+
+(3) Higher-income groups tend to purchase more expensive, high-quality healthcare products—such as prescription drugs, supplements, medical devices, or advanced treatments—which increase total healthcare spending. 
+
+(4) Wealthier individuals are more likely to have comprehensive health insurance that covers a wider range of medical services, often allowing them to seek specialized care or advanced treatments, which they can afford either through insurance premiums or out-of-pocket spending. 
+
+(5) The results of Average Income analysis of States showed California and Utah as a lowest income states, however, these states are known to have high income earnings indicating the variation of the income is high in those states. 
